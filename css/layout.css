@@ -24,4 +24,38 @@
 
 /* Positioning Classes */
 
+/* needed to add ids to everthing under featured brands because everything class is shadow */
 
+.section {
+  padding: 10px;
+  margin: 1%;
+}
+
+#SummerGrass {
+  float: left;
+  width: 67%;
+}
+
+#ShoeArchive {
+ position: relative;
+ left: 50px;
+ float: left;
+ width: 31%;
+}
+
+#LadyBugs {
+ position: relative;
+ top: 20px;
+ float: left;
+ width: 31%;
+}
+
+#Skaters {
+ float: left;
+ width: 31%;
+}
+
+#BlueStar {
+ float: left;
+ width: 31%;
+}
